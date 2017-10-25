@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
-    tools:context="com.example.thekhaeng.fontcompattest.MainActivity">
+    tools:context="com.example.thekhaeng.fontcompattest.MainActivity"
+    tools:ignore="HardcodedText">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -16,8 +17,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
             android:orientation="vertical">
 
 
@@ -140,7 +141,6 @@
                 android:text="Hello World! Bold"
                 android:textSize="20sp"
                 android:textStyle="bold" />
-
 
 
         </LinearLayout>
