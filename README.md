@@ -51,3 +51,14 @@
   android:textStyle="bold" />
 ...
 ```
+
+### Developed By Thai android developer.
+
+
+<img src="./picture/profile2_circle.png" width="170">  ![alt text](./picture/thekhaeng_logo.png)
+
+
+Follow [facebook.com/thekhaeng.io](https://www.facebook.com/thekhaeng.io) on Facebook page.
+or [@nonthawit](https://medium.com/@nonthawit) at my Medium blog. :)
+
+For contact, shoot me an email at nonthawit.thekhaeng@gmail.com
